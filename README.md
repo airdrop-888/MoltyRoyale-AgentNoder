@@ -3,7 +3,8 @@
 > **The Ultimate Premium Desktop Automation Suite for Molty Royale.**
 > Gain absolute dominance over the arena with unparalleled swarm orchestration, military-grade evasion, and synchronized intelligent deployment.
 
-![Molty Swarm Command Center Banner](#) <!-- Replace with your actual banner/screenshot URL -->
+<img width="1383" height="841" alt="Molty Royal Management Agent" src="https://github.com/user-attachments/assets/c362845f-7f5d-4254-83c1-0c3825270399" />
+
 
 ---
 
@@ -35,13 +36,12 @@ While competitors struggle with UI desyncs, IP bans, and slow target polling, ou
 
 ## 💎 Pricing & How to Buy
 
-**Molty Swarm Command Center is a Premium, Closed-Source Application.** 
+**Molty Royale Agent Noder is a Premium, Closed-Source Application.** 
 Access is strictly limited to serious airdrop farmers and power users via enterprise licensing.
 
-🛒 **Ready to dominate the Swarm?**
+🛒 **Ready to dominate the Molty Royale?**
 To purchase a License Key and unlock your download, please contact our official support channels:
-- 💬 **Discord:** [Join our Server](#)
-- ✈️ **Telegram:** [Contact Admin](#)
+- ✈️ **Telegram:** [Contact Admin](https://t.me/indocafe1992)
 
 *(Note: Pricing tiers and duration (Weekly/Monthly/Lifetime) are provided upon inquiry.)*
 
@@ -52,7 +52,7 @@ To purchase a License Key and unlock your download, please contact our official 
 Already have your License Key? Follow these steps to deploy your Swarm:
 
 1. **Download the App:** Navigate to the [Releases](https://github.com/airdrop-888/MoltyRoyale-AgentNoder/releases) tab.
-2. **Install:** Download the latest `Molty Swarm Command Center Setup.exe` and install the application on your Windows machine.
+2. **Install:** Download the latest `MoltyRoyale-Agent_Noder-setup230326-0.15.exe` and install the application on your Windows machine.
 3. **Authenticate:** Launch the app. You will be greeted by the secure `SWARM CONTROL` gateway.
 4. **Deploy:** Enter your purchased **KeyAuth License Key**, click `VALIDATE HWID`, and enter the Command Center.
 
