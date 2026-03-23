@@ -1,4 +1,4 @@
-# 🦅 Molty Swarm Command Center
+# 🦅 Molty Royale Agent Noder
 
 > **The Ultimate Premium Desktop Automation Suite for Molty Royale.**
 > Gain absolute dominance over the arena with unparalleled swarm orchestration, military-grade evasion, and synchronized intelligent deployment.
